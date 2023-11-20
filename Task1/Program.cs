@@ -12,12 +12,12 @@ namespace Task1
         static void Main(string[] args)
         {
             Address adressinfo = new Address();
-            adressinfo.Index = 02098;
+            adressinfo.Index = 31000;
             adressinfo.Country = "Ukraine";
-            adressinfo.City = "Brovaru";
-            adressinfo.Street = "Peremohi st.";
-            adressinfo.House = 321;
-            adressinfo.Apartment = 17;
+            adressinfo.City = "Pyriatyn";
+            adressinfo.Street = "Tyha st.";
+            adressinfo.House = 24;
+            adressinfo.Apartment = 1;
 
             Console.WriteLine ($"Index: {adressinfo.Index} | Country: {adressinfo.Country} | City: {adressinfo.City} | Street: {adressinfo.Street} | House: {adressinfo.House} | Apartment: {adressinfo.Apartment}");
         }
