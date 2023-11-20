@@ -16,11 +16,11 @@ namespace Task2
             double uahcur;
 
             Converter currency = new Converter();
-            currency.X = 41.55; //static cur. x y z to uah
+            currency.X = 41.55; // static cur. x y z to uah
             currency.Y = 41;
             currency.Z = 0.61;
 
-            currency.H = 41.90; //static cur. uah to x y z
+            currency.H = 41.90; // static cur. uah to x y z
             currency.C = 41.50;
             currency.D = 1.63;
 
