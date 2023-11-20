@@ -13,10 +13,10 @@ namespace Task3
         static void Main(string[] args)
         {
             Employee inform = new Employee();
-            inform.Name = "John";
-            inform.Surname = "Dorian";
-            inform.Ocupation = "Junior dev.";
-            inform.Experience = 10;
+            inform.Name = "Oleh";
+            inform.Surname = "Yemchenko";
+            inform.Ocupation = "Web-Designer";
+            inform.Experience = 1;
             inform.Taxes = 0.5;
             inform.Amount = 300;
             
