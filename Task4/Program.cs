@@ -12,10 +12,10 @@ namespace Task4
         static void Main(string[] args)
         {
             User user = new User();
-            user.Login = "Toyeo";
-            user.Name = "John";
-            user.Surname = "Wick";
-            user.Age = 56;
+            user.Login = "Oyemchenko";
+            user.Name = "Oleh";
+            user.Surname = "Yemchenko";
+            user.Age = 18;
 
             Console.WriteLine(" **User data** " +
                 "\n\nLogin: {0};" +
